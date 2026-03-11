@@ -9,4 +9,4 @@ Some provide verification instruments.
 Some provide recovery and artifact systems.
 Some provide intelligence, applications, or interactive experiences.
 
-Together they form a broader architecture for durable digital civilization.
+Together they form a broader architecture for durable digital civilization
